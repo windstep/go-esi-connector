@@ -1,4 +1,4 @@
-package go_esi_connector
+package goesi
 
 import (
 	"encoding/json"
